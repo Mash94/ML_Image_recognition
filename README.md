@@ -1,7 +1,7 @@
 # Image recognition applied to Machine Learning
 (A RMOTR workshop)
 
-Here are the resources used for our workshop about Image Recognition and Machine learning. This is part of our 4-month [Python Data Science Bootcamp](https://rmotr.com/data-science-python-course).
+Here are the resources used for our workshop about Image Recognition and Machine learning. This is part of our 4-month [Python Data Science Bootcamp](https://rmotr.com/data-science-python-course?utm_campaign=workshops&source=github&medium=IP1).
 
 ---
 
